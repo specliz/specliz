@@ -1,4 +1,5 @@
 ![MasterHead]( https://media.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif)
+
 <h1 align="center">Hi 👋, I'm Liz Dai</h1>
 <h3 align="center">A passionate data analyst located in Sydney AU</h3>
 <img align="right"  alt="Coding"  width="400"  src="https://media.tenor.com/LSDeBe2JAfoAAAAC/cat-coding.gif" >
@@ -24,4 +25,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=specliz&" alt="specliz" /></p>
 
-![image](https://github.com/specliz/specliz/assets/144517530/4e13f33d-5407-42db-83e8-14226f78c7de)

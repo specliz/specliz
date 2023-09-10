@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Master of Data Science**
 
-- 👯 I’m looking to collaborate on **Multi-Label Image Classification**
+- 👯 I’m looking to collaborate on **Image Classification**
 
 - 💬 Ask me about **Machine Learning and Data Mining**
 

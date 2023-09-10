@@ -11,8 +11,6 @@
 
 - 👯 I’m looking to collaborate on **Multi-Label Image Classification**
 
-- 👨‍💻 All of my projects are available at [https://bold.pro/my/liz-dai/600](https://bold.pro/my/liz-dai/600)
-
 - 💬 Ask me about **Machine Learning and Data Mining**
 
 - 📫 How to reach me **lizdai3305@gmail.com**

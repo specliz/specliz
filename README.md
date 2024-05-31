@@ -1,6 +1,6 @@
 ![MasterHead]( https://media.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif)
 <h1 align="center">Hi 👋, I'm Liz Dai</h1>
-<h3 align="center">A passionate data analyst located in Sydney AU</h3>
+<h3 align="center">A passionate data scientist located in Sydney AU</h3>
 <img align="right"  alt="Coding"  width="400"  src="https://media.tenor.com/LSDeBe2JAfoAAAAC/cat-coding.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=specliz&label=Profile%20views&color=0e75b6&style=flat" alt="specliz" /> </p>
